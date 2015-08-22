@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TVNZ Root Unblocker</string>
+    <string name="info_xposed_description">This module will bypass the root detection in the TVNZ OnDemand app. (For v2.0)</string>
+
+</resources>
